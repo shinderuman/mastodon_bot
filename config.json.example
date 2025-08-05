@@ -1,0 +1,9 @@
+{
+    "mastodon": {
+        "server": "https://your-mastodon-server.com",
+        "clientId": "your_client_id_here",
+        "clientSecret": "your_client_secret_here",
+        "accessToken": "your_access_token_here",
+        "targetUsers": ["target_username"]
+    }
+}
